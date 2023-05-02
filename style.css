@@ -197,14 +197,16 @@ ul{
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
-    font-size:  5vh;
+    font-size:  10vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
     
 }
 
 .masik{
     text-align: center;
     margin-bottom: 5%;
+    font-size: 15px;
 }
 
 .masodik{
